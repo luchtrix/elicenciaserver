@@ -1,0 +1,6 @@
+module.exports = {
+	'SECRET': "12345N5Aa8y28e0e4",
+	'NAME': "nayeapp",
+	'DB': 'mongodb://localhost/nayeapp',
+	'PORT': process.env.PORT || '8080'
+}
